@@ -47,9 +47,6 @@ header {
   margin-top: 95px;
   padding: 30px 0px;
 }
-header:hover {
-  background-color: lightsalmon;
-}
 
 .logo {
   font-size: 25px;
